@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <item type="id" name="assist_gesture_illustration_animation"/>
+    <item type="id" name="assist_gesture_sensitivity_seekbar"/>
+    <item type="id" name="assist_gesture_training_check"/>
+    <item type="id" name="assist_gesture_training_illustration"/>
+    <item type="id" name="content_container"/>
+    <item type="id" name="current_score"/>
+    <item type="id" name="game_view"/>
+    <item type="id" name="play_view"/>
+    <item type="id" name="progress"/>
+</resources>
